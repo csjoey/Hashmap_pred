@@ -14,3 +14,7 @@ Final project for cisc 220 which uses amateur hashing and input files to predict
     By cloning and editing "mainhash.cpp" you can use pretty much any text format as input with prett self explanatory syntax, 
     but note some xml files and other types may break the program. The hard cap for map size is also 7879, just to avoid 
     memory explosion.
+    
+# Samples
+    Any files affixed with "out" are output files from the program, but to avoid any legal issues some files such as works by
+    Dr suess and the entire sherlock holmes series had to be omitted.
